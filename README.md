@@ -9,6 +9,6 @@ This is a Scrapy(Python) based script to scrape olx.com.pk. OnLine eXchange also
 - Enter the results URL on line. no 15
 - Run the script and it will generate the output
 
-Thanks & Regards
-M Talha
-@talhapythonist
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
